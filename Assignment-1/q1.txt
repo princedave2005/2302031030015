@@ -1,0 +1,11 @@
+Name: Prince Dave
+4IT3
+
+Steps for Github
+
+Downloaded and installed Git
+Created account in GitHub
+Created Repo with my enrollment name
+Initialized empty git
+commited and created branch main
+Pushed this txt file
